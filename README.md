@@ -2,9 +2,13 @@
 
 The most simple GQL app (server + client)
 
+## INSTALLING DEPENDENCIES
+
+Go to `server` dir and run comand `npm install` (it may need root priviledges aka sudo).
+
 ## Staring app (server)
 
-Go to `server` fir and run command `node server.js`
+Go to `server` dir and run command `node server.js`
 
 ## Using client
 
